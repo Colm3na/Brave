@@ -2,7 +2,7 @@
 
 En este repositorio puedes encontrar documentación y pasos para darse de alta en la plataforma de [Brave](https://brave.com) para [publishers](https://publishers.basicattentiontoken.org).
 
-## Es necesario que nuestra web tenga un certificado HTTPS, si necesitas incorporarlo puedes seguir [estos pasos]()
+> Es necesario que nuestra web tenga un certificado HTTPS, si necesitas incorporarlo puedes seguir [estos pasos]()
 
 # Empezando con Brave publishers:
 
