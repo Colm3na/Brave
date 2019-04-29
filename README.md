@@ -1,5 +1,9 @@
 <h1 align="center">Brave </h1>
 
+<p align="center"> 
+<img src="images/BraveSvQ.png">
+</p>
+
 En este repositorio puedes encontrar documentación y pasos para darse de alta en la plataforma de [Brave](https://brave.com) para [publishers](https://publishers.basicattentiontoken.org).
 
 > Es necesario que nuestra web tenga un certificado HTTPS, si necesitas incorporarlo puedes seguir [estos pasos]()
