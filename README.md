@@ -38,7 +38,7 @@
 
 ![uphold6](images/inst6.png)
 
-7. Nos mandarán un mensaje al móvil indicado anteriormente con un enlace al [Appstore](https://itunes.apple.com/us/app/authy/id494168017) (Iphone) o [Google Play](https://play.google.com/store/apps/details?id=com.authy.authy) (Android).
+7. Nos mandarán un mensaje al móvil indicado anteriormente con un enlace al [Appstore](https://itunes.apple.com/us/app/authy/id494168017) (IOS) o [Google Play](https://play.google.com/store/apps/details?id=com.authy.authy) (Android).
 
 <p align="center"> 
 <img src="images/inst7.jpg">
