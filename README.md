@@ -10,7 +10,7 @@
 
 <h1 align="center">Empezando con Brave publishers:</h1>
 
-## Necesitamos crear una cuenta en [Uphold](https://uphold.com/) para gestionar los pagos y nuestros fondos de una manera más sencilla, estos son los pasos a seguir:
+### Necesitamos crear una cuenta en [Uphold](https://uphold.com/) para gestionar los pagos y nuestros fondos de una manera más sencilla, estos son los pasos a seguir:
 
 1. Nos dirigimos a [Uphold](https://uphold.com) y hacemos clic en _“Sign up”_.
 
