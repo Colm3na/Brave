@@ -89,7 +89,7 @@ Dejamos esta ventana abierta para la verificación posterior.
 
 ![brave-creator](images/inst18.png)
 
-## Tenemos dos opciones para introducir este archivo en nuestra web: desde la terminal o instalando el complemento de wordpress.
+## Tenemos dos opciones para introducir este archivo en nuestra web: [desde la terminal](https://github.com/Colm3na/Brave/tree/wimelTest#desde-la-terminal) o instalando el [complemento de wordpress](https://github.com/Colm3na/Brave/tree/wimelTest#desde-el-complemento-de-wordpress).
 
 ## Desde la terminal:
 
