@@ -1,4 +1,4 @@
-<h1 align="center">Brave </h1>
+<h1 align="center">Brave</h1>
 
 <p align="center"> 
 <img src="images/braveSvQ.png">
@@ -8,7 +8,7 @@
 
 > Es necesario que nuestra web tenga un certificado HTTPS, si necesitas incorporarlo puedes seguir [estos pasos]()
 
-# Empezando con Brave publishers:
+<h1 align="center">Empezando con Brave publishers:</h1>
 
 ## Necesitamos crear una cuenta en [Uphold](https://uphold.com/) para gestionar los pagos y nuestros fondos de una manera más sencilla, estos son los pasos a seguir:
 
@@ -26,7 +26,9 @@
 
 * Nos mandan un correo de confirmación al email introducido anteriormente.
 
-![uphold4](images/inst4.png)
+<p align="center"> 
+<img src="images/inst4.png">
+</p>
 
 * Hacemos clic en el link que nos han enviado a nuestro mail.
 
@@ -38,11 +40,15 @@
 
 * Nos mandarán un mensaje al móvil indicado anteriormente con un enlace al [Appstore](https://itunes.apple.com/us/app/authy/id494168017) (Iphone) o [Google Play](https://play.google.com/store/apps/details?id=com.authy.authy) (Android).
 
-![uphold7](images/inst7.jpg)
+<p align="center"> 
+<img src="images/inst7.jpg">
+</p>
 
 * Instalamos la app de [Authy](https://authy.com/download/), y vamos siguiendo los pasos que nos indican.
 
-![uphold8](images/gif1.gif)
+<p align="center"> 
+<img src="images/gif1.gif">
+</p>
 
 * El siguiente paso es darnos de alta en Brave como creadores de contenido. Para ello nos dirigimos a [Brave-creators](https://brave.com/creators/) y hacemos clic en _“Become a Creator”_
 
@@ -54,23 +60,33 @@
 
 * Introducimos nuestro email y hacemos clic en _“Get Started”_
 
-![brave-creator](images/inst9.png)
+<p align="center"> 
+<img src="images/inst9.png">
+</p>
 
 * Recibiremos un email con un enlace, hacemos clic en él.
 
-![brave-creator](images/inst10.png)
+<p align="center"> 
+<img src="images/inst10.png">
+</p>
 
 * Rellenamos los datos y hacemos clic en _“Sign Up”_
 
-![brave-creator](images/inst11.png)
+<p align="center"> 
+<img src="images/inst11.png">
+</p>
 
 * En caso de tener alguna aplicación para el segundo factor, en este paso podemos configurarlo. Para esta guía vamos a omitirlo (si necesitáis una guía de configuración de segundo factor dejadlo en los comentarios), hacemos clic en _“Skip for now”_
 
-![brave-creator](images/inst12.png)
+<p align="center"> 
+<img src="images/inst12.png">
+</p>
 
 * Una vez realizados estos pasos podemos ver nuestra página principal de [Brave Creators](https://brave.com/creators/)
 
-![brave-creator](images/inst13.png)
+<p align="center"> 
+<img src="images/inst13.png">
+</p>
 
 * Ahora vamos a añadir nuestro sitio web y a generar el token necesario para verificarlo. Para ello, hacemos clic en _“Add Channel”_
 
@@ -78,7 +94,9 @@
 
 * Elegimos qué queremos dar de alta, en mi caso _“WEBSITE”_
 
-![brave-creator](images/inst15.png)
+<p align="center"> 
+<img src="images/inst15.png">
+</p>
 
 * Introducimos nuestra web en el recuadro (para el ejemplo, vamos a proceder a dar de alta la web de la [Colmena](https://www.coworkingcolmena.com/)) y hacemos clic en _“Continue”_
 
@@ -86,10 +104,13 @@
 
 * En el siguiente paso nos muestra dos opciones para verificar nuestra página web, en mi caso voy a elegir  _“I’ll use a trusted file”_
 
-![brave-creator](images/inst17.png)
+<p align="center"> 
+<img src="images/inst17.png">
+</p>
 
 * Una vez que hemos hecho clic, nos muestra un archivo que debemos guardar con el token necesario para enlazar nuestra web con Brave (no debemos modificar ni el nombre ni el contenido de ese archivo). Para ello hacemos clic en _“Download”_.
-Dejamos esta ventana abierta para la verificación posterior.
+
+> Dejamos esta ventana abierta para la verificación posterior.
 
 ![brave-creator](images/inst18.png)
 
@@ -101,13 +122,17 @@ Dejamos esta ventana abierta para la verificación posterior.
 
 `cd /var/www/html`
 
-![brave-creator](images/inst19.png)
+<p align="center"> 
+<img src="images/inst19.png">
+</p>
 
 * Creamos una carpeta llamada “.well-known”
 
 `mkdir .well-known`
 
-![brave-creator](images/inst20.png)
+<p align="center"> 
+<img src="images/inst20.png">
+</p>
 
 * Entramos en la carpeta, creamos el archivo y copiamos en el interior el contenido del archivo descargado anteriormente, guardamos y salimos.
 
@@ -125,13 +150,15 @@ Dejamos esta ventana abierta para la verificación posterior.
 
 * Ir a _Settings_ > _Brave Payments Verification_ y añadir el token obtenido del fichero de verificación y hacer click en _Save Changes_
 
-**Nota:** Una vez hayamos recibido confirmación por email de que el sitio está verificado, podemos desactivar este plugin.
+> **Nota:** Una vez hayamos recibido confirmación por email de que el sitio está verificado, podemos desactivar este plugin.
 
 ## Una vez que hemos realizado los pasos anteriores vamos a proceder a verificar nuestra web
 
 * Nos dirigimos a la página anterior y hacemos clic en _“Verify”_
 
-![brave-creator](images/inst22.png)
+<p align="center"> 
+<img src="images/inst22.png">
+</p>
 
 _**Con estos pasos ya tenemos nuestra web de alta en Brave Creators; si nos dirigimos a nuestra página principal en Brave Rewards podemos ver que nos aparece nuestra web.**_
 
